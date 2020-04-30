@@ -1,11 +1,10 @@
 language: node_js
-666
+node_js: stable
+
 cache:
   apt: true
   directories:
     - node_modules
-
-node_js: stable
 
 install:
   - npm install -D
