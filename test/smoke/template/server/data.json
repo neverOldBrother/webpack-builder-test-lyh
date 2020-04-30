@@ -1,0 +1,17 @@
+{
+	"requestId": "5ea2ebe8a8ffc224427d4e61046cb695",
+	"result": "SUCCESS",
+	"response": {
+		"token": {
+			"value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..PgtCU0Qs8pW_DCCR.jFQkL8HWJVQDrDSduwn9x_QRaOQ3qxr96WH0nuEk9wRUMJWUjxWwyGNoX3tqZiPyRA5Xhv37VBxbfU_bcgQnTFqYepF-P7EJi4R9W6-WA8VjD0HnfBjvhypxd5PBdTsk4ypzRNlfHE3460mEw1n9Wk4Qtfyx_XeHVGGU50yWIPzoIekyhKr23OPJbp8r7NSlrSRtpt7s8RUMOF4sesXi0m6LzPJ5XccBVGWi-FmlWdkTAXjLZJpuKRGko86XkTGYHqepX3_VS2qpW7PKe6jpO6lSSfARizSByyOvYjwivLM3nA7rOZ56j6fwkwlWGsa9C1abenWk-lQ6CVC51gH0bODpZELr74VpRGapgfAiTYPk3QPlxw.zWwUjjE6fY2CmGkLfQ6M0w",
+			"exp": 1588599528
+		},
+		"email": null,
+		"locale": null,
+		"name": null,
+		"country": null,
+		"client": null,
+		"redirectUrl": null,
+		"organization": null
+	}
+}
